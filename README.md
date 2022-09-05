@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fa-sharp
-- 🌱 I’m currently learning backend development, as well as diving into UI/UX topics on the frontend
+- 👋 Hi, I’m @fa-sharp!
+- 🌱 I’m a developer, teacher, and musician with a passion for helping others.
 - 💞️ I’m looking to collaborate on cool projects, particularly music-related
 - 📫 How to reach me: hello (at) fasharp (dot) info
